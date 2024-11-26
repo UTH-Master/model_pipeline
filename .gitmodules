@@ -1,0 +1,3 @@
+[submodule "traffic_detection_api"]
+	path = traffic_detection_api
+	url = https://github.com/ducquynhnguyeninfo/traffic_detection_api.git
